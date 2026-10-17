@@ -18,7 +18,7 @@ Assoc. Prof. Ratchatin Chancharoen, Ph.D.
 
 ## Mechanism Design, Kinematic Analysis, and Prototyping
 
-This repository contains the complete design and analysis workflow for a **Three Claw Gripper** based on a **six-bar linkage mechanism**. The project integrates analytical kinematics, symbolic computation, multibody simulation, and hardware design.
+This repository contains the complete design and analysis workflow for a **Delta Robot**, a **3-DOF parallel manipulator** driven by three revolute actuators through **parallelogram linkages**. The project integrates analytical kinematics, symbolic computation, multibody simulation, and hardware design.
 
 ---
 
